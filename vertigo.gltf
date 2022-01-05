@@ -76,7 +76,7 @@
     ],
     "materials" : [
         {
-            "alphaMode" : "BLEND",
+            "alphaMode" : "CLIP",
             "doubleSided" : true,
             "name" : "Material.001",
             "pbrMetallicRoughness" : {
